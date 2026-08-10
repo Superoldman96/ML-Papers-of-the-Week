@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading AI papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2026
+- [Top AI Papers of the Week (August 3 - August 9)](years/2026.md#top-ai-papers-of-the-week-august-3---august-9---2026)
 - [Top AI Papers of the Week (July 27 - August 2)](years/2026.md#top-ai-papers-of-the-week-july-27---august-2---2026)
 - [Top AI Papers of the Week (July 20 - July 26)](years/2026.md#top-ai-papers-of-the-week-july-20---july-26---2026)
 - [Top AI Papers of the Week (July 12 - July 19)](years/2026.md#top-ai-papers-of-the-week-july-12---july-19---2026)
